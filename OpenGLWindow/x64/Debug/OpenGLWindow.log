@@ -1,0 +1,3 @@
+﻿  window_main.cpp
+C:\Users\tahmi\VS Projects\repos\OpenGL\Geometry Shader - Building Houses\OpenGLWindow\shader.h(56,40): warning C4101: 'e': unreferenced local variable
+  OpenGLWindow.vcxproj -> C:\Users\tahmi\VS Projects\repos\OpenGL\Geometry Shader - Building Houses\x64\Debug\OpenGLWindow.exe
